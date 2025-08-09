@@ -72,5 +72,4 @@ The project is implemented in **MySQL** using aggregation, conditional logic, an
    USE customer_seg_proj;
    ## ER Diagram
 
-![Customer Segmentation ER Diagram]("C:\Users\talkt\Downloads\customer_segmentation_er_diagram (1).png")
-
+![Customer Segmentation ER Diagram](images/customer_segmentation_er_diagram.png)
