@@ -70,3 +70,7 @@ The project is implemented in **MySQL** using aggregation, conditional logic, an
    ```sql
    CREATE DATABASE customer_seg_proj;
    USE customer_seg_proj;
+   ## ER Diagram
+
+![Customer Segmentation ER Diagram](images/customer_segmentation_er_diagram.png)
+
